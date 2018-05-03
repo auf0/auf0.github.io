@@ -4,21 +4,24 @@ font-family: 'Ubuntu', sans-serif;
 font-color: #000;
 }
 
-h1 {
-	    font-size: 777px;
-    font-weight: lighter;
-    margin-top: -200px;
-    margin-bottom: 0px;
-    font-family: 'Open Sans', sans-serif;
-    position: absolute;
+.logo {
+	top: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 5px;
+	text-align: center;
 }
 
-p {
+h1 {
+	font-size: 777px;
+	font-weight: lighter;
+	font-family: 'Open Sans', sans-serif;
+
+
+}
+
+h2 {
 	font-size: 77px;
     font-weight: bold;
-    margin-bottom: -40px;
-    margin-top: -10px;
-    margin-left: 160px;
     font-family: 'Ubuntu', sans-serif;
-    position: absolute;
 }
