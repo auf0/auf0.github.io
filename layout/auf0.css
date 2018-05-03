@@ -4,6 +4,8 @@ font-family: 'Ubuntu', sans-serif;
 font-color: #000;
 }
 
+/* Main */ 
+
 .logo {
 	top: 80%;
 	margin-right: auto;
@@ -16,12 +18,14 @@ h1 {
 	font-size: 777px;
 	font-weight: lighter;
 	font-family: 'Open Sans', sans-serif;
-
-
+	margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 h2 {
 	font-size: 77px;
     font-weight: bold;
     font-family: 'Ubuntu', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
