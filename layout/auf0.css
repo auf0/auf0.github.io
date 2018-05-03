@@ -15,17 +15,18 @@ font-color: #000;
 }
 
 h1 {
-	font-size: 777px;
-	font-weight: lighter;
-	font-family: 'Open Sans', sans-serif;
-	margin-top: 0px;
+	font-size: 333px;
+    font-weight: lighter;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
     margin-bottom: 0px;
+    line-height: 1;
 }
 
 h2 {
-	font-size: 77px;
-    font-weight: bold;
-    font-family: 'Ubuntu', sans-serif;
+    font-size: 44px;
+    font-weight: lighter;
+    font-family: 'Open Sans', sans-serif;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: -62px;
 }
